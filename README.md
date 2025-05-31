@@ -235,27 +235,6 @@ from sentence_transformers import SentenceTransformer
 
 ---
 
-## 💡 Tips Cho Giáo Viên
-
-### Cách giảng dạy hiệu quả
-1. **Bắt đầu bằng demo:** Luôn show kết quả trước khi giải thích
-2. **Ví dụ thực tế:** Liên kết với cuộc sống hàng ngày
-3. **Hands-on ngay:** Code ngay sau khi giải thích lý thuyết
-4. **Pair programming:** Học sinh làm việc theo cặp
-5. **Show, don't tell:** Dùng hình ảnh, video minh họa
-
-### Xử lý khó khăn
-- **Kiến thức toán yếu:** Focus vào intuition, ít công thức
-- **Lập trình chậm:** Provide templates, focus vào logic
-- **Hardware hạn chế:** Sử dụng Google Colab, cloud services
-
-### Động lực học tập
-- **Gamification:** Leaderboard, badges
-- **Real projects:** Giải quyết vấn đề thực tế
-- **Peer sharing:** Students present to each other
-
----
-
 ## 🚀 Lộ Trình Mở Rộng
 
 ### Sau khóa học, học sinh có thể:
